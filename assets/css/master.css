@@ -1,0 +1,12 @@
+.video-container {
+    position: absolute;
+    bottom: 0px;
+    z-index: 0;
+    height: 100vh;
+    object-fit: cover;
+  	overflow: hidden;
+}
+#landing-page-video {
+    opacity: .86;
+    object-fit: cover;
+}
